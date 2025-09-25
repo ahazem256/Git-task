@@ -1,10 +1,10 @@
-class HelloIT {
+class Hellojava {
   printHelloIT() {
-    console.log("Hello IT");
+    console.log("Hello java");
   }
 
   printHelloGit() {
-    console.log("Hello Git");
+    console.log("Hello java");
   }
 }
 
